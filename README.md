@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
+  <a href="http://34s0ft.com/" target="blank"><img src="./Logo.svg" width="320" alt="34s0ft Logo" /></a>
 </p>
 
 ## Description
 
-Application that implements a backend app chat using nestjs and websocket
+Application that implements a chat app backend in nestjs using websocket
 
 ## Installation
 
